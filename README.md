@@ -29,7 +29,7 @@ Descobreix els millors jocs **classics** en un sol lloc.
 - Gràfics 8-bits autèntics
 - Mode cooperatiu
 
-##Requisits mínims
+## Requisits mínims
 Processador: 1GHz
 RAM: 512MB
 
