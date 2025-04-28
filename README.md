@@ -16,7 +16,7 @@ Descobreix els millors jocs **classics** en un sol lloc.
 ## Novetats
 - Competiciò online
 - Rankings globals
--**Editor de nivells*
+- *Editor de nivells**
 
 ##Packs de Subscripció
 |Pack|Preu
