@@ -5,7 +5,7 @@ Descobreix els millors jocs **classics** en un sol lloc.
 ## Plataformes disponibles:
 - PC
 - Arcade
--Mòbil
+- Mòbil
 
 ##Exemples de Jocs:
 1. DonkeyKong
