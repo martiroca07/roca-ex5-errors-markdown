@@ -36,7 +36,7 @@ RAM: 512MB
 ## Compatibilitat
 Windows, MacOS, Linux
 
-##Drets d'autor
+## Drets d'autor
 **RetroGaming World 2025*
 
 ##Suport
