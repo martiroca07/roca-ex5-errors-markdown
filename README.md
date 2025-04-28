@@ -27,7 +27,7 @@ Descobreix els millors jocs **classics** en un sol lloc.
 
 ## Característiques destacades:
 - Gràfics 8-bits autèntics
--Mode cooperatiu
+- Mode cooperatiu
 
 ##Requisits mínims
 Processador: 1GHz
