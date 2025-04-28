@@ -14,7 +14,7 @@ Descobreix els millors jocs **classics** en un sol lloc.
 4. Mega Man
 
 ## Novetats
--Competiciò online
+- Competiciò online
 - Rankings globals
 -**Editor de nivells*
 
