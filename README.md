@@ -19,10 +19,11 @@ Descobreix els millors jocs **classics** en un sol lloc.
 - **Editor de nivells**
 
 ## Packs de Subscripció
-|Pack|Preu
-|---|---
-Bàsic|Gratis
-Premium|5€/mes
+
+|Pack   |Preu  |
+|-------|------|
+|Bàsic  |Gratis|
+|Premium|5€/mes|
 
 ##Característiques destacades:
 -Gràfics 8-bits autèntics
