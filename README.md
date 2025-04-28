@@ -18,7 +18,7 @@ Descobreix els millors jocs **classics** en un sol lloc.
 - Rankings globals
 - **Editor de nivells**
 
-##Packs de Subscripció
+## Packs de Subscripció
 |Pack|Preu
 |---|---
 Bàsic|Gratis
