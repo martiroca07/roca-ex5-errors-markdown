@@ -9,7 +9,7 @@ Descobreix els millors jocs **classics** en un sol lloc.
 
 ## Exemples de Jocs:
 1. DonkeyKong
-2.Pac-Man
+2. Pac-Man
 3. Zelda
 4.Mega Man
 
