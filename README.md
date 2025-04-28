@@ -1,4 +1,4 @@
-#Retro Gaming World
+# Retro Gaming World
 
 Descobreix els millors jocs **classics* en un sol lloc.
 
