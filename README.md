@@ -33,7 +33,7 @@ Descobreix els millors jocs **classics** en un sol lloc.
 Processador: 1GHz
 RAM: 512MB
 
-##Compatibilitat
+## Compatibilitat
 Windows, MacOS, Linux
 
 ##Drets d'autor
