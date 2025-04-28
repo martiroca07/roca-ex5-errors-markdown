@@ -25,7 +25,7 @@ Descobreix els millors jocs **classics** en un sol lloc.
 |Bàsic  |Gratis|
 |Premium|5€/mes|
 
-##Característiques destacades:
+## Característiques destacades:
 -Gràfics 8-bits autèntics
 -Mode cooperatiu
 
