@@ -3,7 +3,7 @@
 Descobreix els millors jocs **classics** en un sol lloc.
 
 ## Plataformes disponibles:
--PC
+- PC
 -Arcade
 -Mòbil
 
