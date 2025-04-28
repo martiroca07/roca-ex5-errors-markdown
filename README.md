@@ -13,7 +13,7 @@ Descobreix els millors jocs **classics** en un sol lloc.
 3. Zelda
 4. Mega Man
 
-##Novetats
+## Novetats
 -Competiciò online
 - Rankings globals
 -**Editor de nivells*
