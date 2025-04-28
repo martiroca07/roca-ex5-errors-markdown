@@ -37,7 +37,7 @@ RAM: 512MB
 Windows, MacOS, Linux
 
 ## Drets d'autor
-**RetroGaming World 2025*
+**RetroGaming World 2025**
 
 ##Suport
 Servei tècnic disponible 24h
